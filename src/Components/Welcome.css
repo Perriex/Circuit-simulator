@@ -1,0 +1,38 @@
+/** @format */
+
+.Welcome {
+  padding: 20px;
+  border-radius: 12px;
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.Welcome p {
+  font-size: 12px;
+}
+.Welcome h2 {
+    font-size: 25px;
+  }
+a:-webkit-any-link {
+  margin: 20px;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #d8967f;
+  color: white;
+  border: 2px solid #d8967f;
+  border-radius: 12px;
+}
+a:-webkit-any-link:hover {
+  background-color: white;
+  color: black;
+}

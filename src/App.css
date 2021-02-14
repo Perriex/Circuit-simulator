@@ -1,0 +1,11 @@
+.App {
+  background: url(https://image.freepik.com/free-photo/wooden-table-background_23-2147962363.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

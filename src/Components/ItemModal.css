@@ -1,0 +1,79 @@
+/** @format */
+
+.Modal {
+  position: absolute;
+  margin: auto;
+  background: white;
+  border: 1px solid #720b0b;
+  transition: 0.9s ease-out;
+  transform: scale(1);
+  opacity: 1;
+  visibility: visible;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 20%;
+  right: 5%;
+}
+.Modal .Modal-item {
+  margin: 10px;
+  display: block;
+  text-align: center;
+  cursor: pointer;
+}
+.Modal .Modal-btn-close {
+  position: fixed;
+  width: 27px;
+  height: 27px;
+  left: 0;
+  background-color: #f05d5e;
+  color: white;
+}
+.Modal .Modal-header {
+  font-size: 20px;
+  font-weight: 500;
+  border-bottom: 2px solid gray;
+  background-color: #d8967f;
+}
+.Modal input {
+  width: 90px;
+  padding: 10px;
+  margin: 10px;
+}
+.Modal input {
+  width: 90px;
+  padding: 10px;
+  margin: 10px;
+}
+.Modal select {
+  margin: 20px;
+  font-size: 15px;
+}
+.Modal option {
+  font-size: 16px;
+}
+.Modal-btn {
+  padding: 12px 32px;
+  display: block;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #d8967f;
+  color: white;
+  border: 2px solid #d8967f;
+  border-radius: 12px;
+}
+.Modal-btn:hover {
+  background-color: white;
+  color: black;
+}
+.Title {
+  color: gold;
+  font-size: 25px;
+}
+.notActive{
+  color:red;
+}

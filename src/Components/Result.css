@@ -1,0 +1,108 @@
+/** @format */
+
+.position label{
+    color:red;
+    position: relative;
+    font-weight: 500;
+    margin: 0px;
+}
+.Rotate button,.Rotate{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: seashell;
+    border: none;
+}
+.position-1-4 img,
+.position-4-1 img,
+.position-2-5 img,
+.position-5-2 img,
+.position-3-6 img,
+.position-6-3 img,
+.position-4-7 img,
+.position-7-4 img,
+.position-8-5 img,
+.position-5-8 img,
+.position-6-9 img,
+.position-9-6 img{
+  transform: rotate(90deg);
+}
+.position-1-2,
+.position-2-1 {
+  top: 200px;
+  left: 40%;
+  position: absolute;
+}
+.position-2-3,
+.position-3-2 {
+  top: 200px;
+  left: 55%;
+  position: absolute;
+}
+.position-4-5,
+.position-5-4 {
+  top: 400px;
+  left: 40%;
+  position: absolute;
+}
+.position-5-6,
+.position-6-5 {
+  top: 400px;
+  left: 55%;
+  position: absolute;
+}
+.position-8-9,
+.position-9-8 {
+  top: 540px;
+  left: 55%;
+  position: absolute;
+}
+.position-8-7,
+.position-7-8 {
+  top: 540px;
+  left: 40%;
+  position: absolute;
+}
+.position-1-4,
+.position-4-1 {
+  top: 300px;
+  left: 35%;
+  position: absolute;
+}
+.position-7-4,
+.position-4-7 {
+  top: 490px;
+  left: 35%;
+  position: absolute;
+}
+.position-2-5,
+.position-5-2 {
+  top: 300px;
+  left: 47%;
+  position: absolute;
+}
+.position-3-6,
+.position-6-3{
+  top: 300px;
+  left: 58%;
+  position: absolute;
+}
+.position-9-6,
+.position-6-9{
+  top: 480px;
+  left: 58%;
+  position: absolute;
+}
+.position-5-8,
+.position-8-5{
+  top: 480px;
+  left: 47%;
+  position: absolute;
+}
+.position-5-6,
+.position-6-5{
+  top: 400px;
+  left: 55%;
+  position: absolute;
+}

@@ -1,0 +1,20 @@
+/** @format */
+
+.dot {
+    height: 45px;
+    width: 45px;
+    margin: 70px;
+    background-color: #f05d5e;
+    border-radius: 50%;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+  }
+  .dot:hover,
+  .dot:active,
+  .dot:visited,
+  .dot:focus {
+    background-color: #720e0e;
+    border-radius: 50%;
+    box-shadow: white 1px 1px 2px 1px;
+  }

@@ -1,0 +1,14 @@
+@import './Result.css';
+
+.table-2 {
+    width: 550px;
+    height: 550px;
+    border: black solid 2px;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+  }
+  .top{
+    position:absolute;
+    top:150px;
+  }
