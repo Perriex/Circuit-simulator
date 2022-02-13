@@ -1,4 +1,6 @@
-# Circuit simulator
+# Circuit simulator 
+
+Simple react project - Educational
 
 An simple educational software for building electrical circuits.
 
